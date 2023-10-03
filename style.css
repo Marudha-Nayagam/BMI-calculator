@@ -1,0 +1,37 @@
+.container{
+    margin: 60px auto;
+    border: 1px solid lightgray;
+    border-radius: 16px;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    background-color: rgb(243, 64, 20);
+}
+.icons{
+    font-size: 50px;
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    gap: 20px;
+}
+input{
+    border: 1px solid lightgray;
+    font-size: 16px;
+    padding: 14px;
+    width: 50%;
+    border-radius: 12px;
+    
+}
+#btn{
+    width: 100%;
+    border: none;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+    padding: 14px;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
